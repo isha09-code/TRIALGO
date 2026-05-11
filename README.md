@@ -1,3 +1,3 @@
 # TRIALGO
 
-rest of the 
+rest of the details 
