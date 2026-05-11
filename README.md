@@ -1,3 +1,3 @@
 # TRIALGO
 
-rest of 
+rest of the 
