@@ -1,3 +1,3 @@
 # TRIALGO
 
-rest of the details are coming 
+rest of the details are coming soon
