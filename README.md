@@ -1,5 +1,2 @@
 # TRIALGO
 
-e
-d
-ed
