@@ -1,5 +1,5 @@
 # TRIALGO
 
 sx
-s
+sz
 ss
