@@ -1,2 +1,3 @@
 # TRIALGO
 
+s
